@@ -74,7 +74,7 @@ For **each challenge**, teams must submit **a comprehensive report**. This repor
   - Effectiveness of the solution
   - Clarity and thoroughness of the writeup
   - Adherence to challenge requirements
-
+  - More details: https://docs.google.com/document/d/1lFAwYzUjkkbCJ-NjRq8F6dKo9Xbjj0kjlcoEaoWmDPk/edit?usp=sharing 
 ---
 
 ## 💬 Channel Support
