@@ -22,7 +22,7 @@ Each team will work on completing the following challenges:
 - **1 Hard Challenge**
 
 📄 **Writeup Requirement:**  
-For **each challenge**, teams must submit **a comprehensive report**. This report should include:
+For **each challenge**, teams must submit **a comprehensive report** in **PDF** format. This report should include:
 
 - **Exploit Code (Proof of Concept)**:  
   Provide the exploit or test code for each identified vulnerability using **Foundry**.
